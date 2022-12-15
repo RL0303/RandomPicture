@@ -13,6 +13,7 @@
 		6EAE85FA294B092A0082A0C3 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 6EAE85F8294B092A0082A0C3 /* Main.storyboard */; };
 		6EAE85FC294B092B0082A0C3 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 6EAE85FB294B092B0082A0C3 /* Assets.xcassets */; };
 		6EAE85FF294B092B0082A0C3 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 6EAE85FD294B092B0082A0C3 /* LaunchScreen.storyboard */; };
+		6EAE8607294B24A00082A0C3 /* MultipleViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6EAE8606294B24A00082A0C3 /* MultipleViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		6EAE85FB294B092B0082A0C3 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		6EAE85FE294B092B0082A0C3 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		6EAE8600294B092B0082A0C3 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		6EAE8606294B24A00082A0C3 /* MultipleViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MultipleViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -59,6 +61,7 @@
 				6EAE85F2294B092A0082A0C3 /* AppDelegate.swift */,
 				6EAE85F4294B092A0082A0C3 /* SceneDelegate.swift */,
 				6EAE85F6294B092A0082A0C3 /* ViewController.swift */,
+				6EAE8606294B24A00082A0C3 /* MultipleViewController.swift */,
 				6EAE85F8294B092A0082A0C3 /* Main.storyboard */,
 				6EAE85FB294B092B0082A0C3 /* Assets.xcassets */,
 				6EAE85FD294B092B0082A0C3 /* LaunchScreen.storyboard */,
@@ -140,6 +143,7 @@
 			files = (
 				6EAE85F7294B092A0082A0C3 /* ViewController.swift in Sources */,
 				6EAE85F3294B092A0082A0C3 /* AppDelegate.swift in Sources */,
+				6EAE8607294B24A00082A0C3 /* MultipleViewController.swift in Sources */,
 				6EAE85F5294B092A0082A0C3 /* SceneDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
